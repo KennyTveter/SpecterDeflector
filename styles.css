@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+.memeposter {
+    width: 100;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 2%;
+    color: white;
+    font-family: 'Heebo', sans-serif; 
+}
+
+.meme {
+    border: 10px white solid;
+    width: 90%;
+    border-radius: 50%;
+}
+
+.memetext {
+    text-shadow: 1px 2px 2px blueviolet;
+    
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+
+p {
+    font-weight: 600;
+    text-transform: lowercase;
+}
